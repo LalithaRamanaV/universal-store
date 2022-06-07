@@ -3,4 +3,7 @@
  # Technologies used
    * React 
    * Node
+# Features
+ * Signin
+ * Signout
 
