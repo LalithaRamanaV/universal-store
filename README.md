@@ -5,6 +5,7 @@
    * Node
    * Google fonts for font styles
    * styled-components for styling
+   * Material-ui
 # Features
  * Signin
  * Signout
