@@ -6,7 +6,10 @@ height:30px;
 background-color:teal;
 color:white;
 align-items:center;
-text-align:center;
+justify-content:center;
+display:flex;
+font-size:15px;
+font-weight:500;
 `
 
 const Announcement = () => {
