@@ -2,6 +2,7 @@ import React from 'react'
 import styled from "styled-components"
 import { useState } from "react";
 import { sliderItems } from '../data';
+import { mobile } from "../responsive";
 import ArrowForwardIosOutlinedIcon from '@mui/icons-material/ArrowForwardIosOutlined';
 import ArrowBackIosNewOutlinedIcon from '@mui/icons-material/ArrowBackIosNewOutlined';
 
@@ -11,6 +12,7 @@ height:100vh;
 display:flex;
 position:relative;
 overflow:hidden;
+${mobile({ display: "none" })}
 `
 const Arrow = styled.div`
 color:black;
