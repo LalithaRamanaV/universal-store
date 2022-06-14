@@ -11,7 +11,7 @@ const Button = styled.button`
 border:none;
 padding: 10px;
 background-color: white;
-color:gray;
+color:black;
 cursor: pointer;
 font-weight: 600;
 `
