@@ -7,6 +7,7 @@
    * styled-components for styling
    * Material-ui
 # What I have built 
+## Frontend 
  * Navbar 
  * slider
  * shopping categories
@@ -20,7 +21,6 @@
  * Newsletter
  * footer
  * responsive ui
- * 
 # Concepts covered 
 
 
