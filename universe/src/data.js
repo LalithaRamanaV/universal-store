@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://st4.depositphotos.com/13194036/21492/i/600/depositphotos_214928316-stock-photo-attractive-happy-girl-jumping-shopping.jpg",
+      img: "/images/image1.png",
       title: "FLASH NEW SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 50% OFF FOR NEW ARRIVALS.",
       bg: "ffffff",
@@ -15,10 +15,10 @@ export const sliderItems = [
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/3671111/pexels-photo-3671111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      img: "https://i.pinimg.com/736x/c4/c4/1a/c4c41af49661cf0c6c852ba53e79c998.jpg ",
       title: "KIDS NEW COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 50% OFF FOR NEW ARRIVALS.",
-      bg: "fbf0f4",
+      bg: "ffffff",
     },
   ];
 
