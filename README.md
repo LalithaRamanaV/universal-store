@@ -3,9 +3,16 @@
  # Technologies used
    * React 
    * Node
+   * Express
    * Google fonts for font styles
    * styled-components for styling
    * Material-ui
+   * MongoDB
+   * Rest API using Nodejs and MongoDB
+   * JSON web token
+   * mongoose
+   * dotenv
+   * nodemon
 # What I have built 
 ## Frontend 
  * Navbar 
@@ -20,6 +27,7 @@
  * used styled componets, hover and animation
  * Newsletter
  * footer
+ * filter products
  * responsive ui
 # Concepts covered 
 
