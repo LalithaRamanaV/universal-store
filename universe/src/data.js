@@ -8,10 +8,10 @@ export const sliderItems = [
     },
     {
       id: 2,
-      img: "https://www.pehnavafashionmart.com/userdata/public/gfx/17270.jpg",
+      img: "/images/image14.png",
       title: "FESTIVE COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 50% OFF FOR NEW ARRIVALS.",
-      bg: "fcf1ed",
+      bg: "ffffff",
     },
     {
       id: 3,
