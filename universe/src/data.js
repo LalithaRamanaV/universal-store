@@ -15,8 +15,8 @@ export const sliderItems = [
     },
     {
       id: 3,
-      img: "https://i.pinimg.com/736x/c4/c4/1a/c4c41af49661cf0c6c852ba53e79c998.jpg ",
-      title: "KIDS NEW COLLECTION",
+      img: "/images/image5.png",
+      title: "NEW MAKEUP COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 50% OFF FOR NEW ARRIVALS.",
       bg: "ffffff",
     },
